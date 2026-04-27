@@ -40,19 +40,6 @@ public class AgendaTelefonica {
         
         for(OperadoraTelefonica operadorita : operadoras){
             System.out.println(operadorita);
-        }
-        
-        
-        /*
-        
-        Menu
-        1. Registrar Contactos (implementar)
-        2. Registrar Operadoras (implementar)
-        3. Regitrar Telefonos (no implementar)
-        4. Salir        
-        
-        Subir a GitHub (enlace publicado en Teams)
-        */
-        
+        }        
     }
 }
