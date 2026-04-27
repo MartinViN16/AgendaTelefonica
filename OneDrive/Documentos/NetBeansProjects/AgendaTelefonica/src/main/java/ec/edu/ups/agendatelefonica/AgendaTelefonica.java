@@ -16,8 +16,6 @@ public class AgendaTelefonica {
         
         Telefono telefonoUno = new Telefono(991275411, "Movil", personaUno, operadoraUno);
         
-        //imrpimir todos los datos del telefono, incluyendo datos completos de la persona y telefonica
-        
         System.out.println("Datos del Telefono Uno: " + telefonoUno);
         
         // Manejo de Listas en Java
